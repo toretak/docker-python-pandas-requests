@@ -4,3 +4,4 @@ simplejson
 numpy
 pyyaml
 influxdb
+boto3
